@@ -1,6 +1,7 @@
 # Customer_behavior_analysis
 
 **1. Project Overview**
+
 This project focuses on analyzing customer behavior to identify purchasing patterns, customer characteristics, and factors influencing buying decisions.
 The goal is to generate data-driven insights that help businesses better understand their customers and improve business strategies.
 
@@ -17,16 +18,20 @@ The goal is to generate data-driven insights that help businesses better underst
 - Excel – Initial data inspection and preprocessing.
 
 **4. Project Workflow**
+
 _1. Data Collection_
 The dataset contains customer transaction and behavior data.
+
 _2. Data Cleaning_
 - Handle missing values.
 - Standardize data formats.
 - Remove duplicates.
+
 _3. Data Analysis_
 - Analyze purchasing patterns.
 - Evaluate customer frequency and spending.
 - Identify key customer segments.
+
 _4. Data Visualization_
 - Create interactive dashboards.
 - Visualize important business metrics.
